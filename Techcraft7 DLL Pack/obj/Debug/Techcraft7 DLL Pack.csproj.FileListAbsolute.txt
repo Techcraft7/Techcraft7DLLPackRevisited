@@ -1,0 +1,6 @@
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.dll
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.pdb
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.dll
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.pdb
