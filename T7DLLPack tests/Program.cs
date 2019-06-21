@@ -15,7 +15,11 @@ namespace T7DLLPack_tests
 			list.AddObject(typeof(int), new MultiTypeListObject(12345));
 			Console.WriteLine(list[0, typeof(int)]);
 			Console.WriteLine(list[0, typeof(string)]);
-			Console.Read();
+			Form1 f = new Form1();
+			if (f.ShowDialog() == f.DialogResult)
+			{
+
+			}
 		}
 	}
 }

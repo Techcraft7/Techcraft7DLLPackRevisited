@@ -8,3 +8,5 @@ C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DL
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\Techcraft7 DLL Pack.dll
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\Techcraft7 DLL Pack.pdb
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.CopyComplete
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack_tests.Form1.resources
+C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.GenerateResource.cache
