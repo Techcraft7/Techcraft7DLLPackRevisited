@@ -12,8 +12,10 @@ namespace T7DLLPack_tests
 {
 	public partial class Form1 : Form
 	{
-		public Form1()
+		private readonly bool close = false;
+		public Form1(bool autoclose)
 		{
+			close = autoclose;
 			InitializeComponent();
 			sideBar1.Close();
 			sideBar1.AddControl(label1);
@@ -28,6 +30,14 @@ namespace T7DLLPack_tests
 		private void Button2_Click(object sender, EventArgs e)
 		{
 			MessageBox.Show("HELLO!");
+		}
+
+		private void Form1_Shown(object sender, EventArgs e)
+		{
+			if (close)
+			{
+				Close();
+			}
 		}
 	}
 }
