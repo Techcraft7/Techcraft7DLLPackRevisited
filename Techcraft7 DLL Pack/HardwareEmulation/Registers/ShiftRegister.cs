@@ -20,7 +20,7 @@ namespace Techcraft7_DLL_Pack.HardwareEmulation.Registers
 			loop = LoopDataBackToStart;
 			adresssize = AdressBitWidth;
 			datasize = DataBitWidth;
-			size = (int)Math.Pow(2, AdressBitWidth);
+			size = (int)System.Math.Pow(2, AdressBitWidth);
 			register = new bool[datasize, size];
 			InitRegister();
 		}
@@ -31,7 +31,7 @@ namespace Techcraft7_DLL_Pack.HardwareEmulation.Registers
 			loop = LoopDataBackToStart;
 			adresssize = AdressBitWidth;
 			datasize = DataBitWidth;
-			size = (int)Math.Pow(2, AdressBitWidth);
+			size = (int)System.Math.Pow(2, AdressBitWidth);
 			register = new bool[datasize, size];
 			InitRegister();
 			if (debug)

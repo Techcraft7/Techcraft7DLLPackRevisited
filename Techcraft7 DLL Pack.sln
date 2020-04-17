@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techcraft7 DLL Pack", "Tech
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7DLLPack tests", "T7DLLPack tests\T7DLLPack tests.csproj", "{953A0E0D-44CB-4D0D-BB2C-80E67E7C3341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7DLLPack tests 2", "T7DLLPack tests 2\T7DLLPack tests 2.csproj", "{BCC06F21-2F64-419B-8BF4-E19F393CF96A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{953A0E0D-44CB-4D0D-BB2C-80E67E7C3341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953A0E0D-44CB-4D0D-BB2C-80E67E7C3341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{953A0E0D-44CB-4D0D-BB2C-80E67E7C3341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

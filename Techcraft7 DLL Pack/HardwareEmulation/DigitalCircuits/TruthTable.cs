@@ -23,7 +23,7 @@ namespace Techcraft7_DLL_Pack.HardwareEmulation.DigitalCircuits
 			{
 				throw new NullReferenceException("Outputs was null or empty");
 			}
-			else if (Outputs.Length != (int)Math.Pow(2,  Inputs))
+			else if (Outputs.Length != (int)System.Math.Pow(2,  Inputs))
 			{
 				throw new InvalidOperationException("Outputs.Length was not equal to 2^Inputs!");
 			}
@@ -132,7 +132,7 @@ namespace Techcraft7_DLL_Pack.HardwareEmulation.DigitalCircuits
 			for (int i = v.Length - 1; i >= 0; i--)
 			{
 				//each place doubles in value, but since were going backwards, we can't just use 'i' as our power...
-				dec += (int)Math.Pow(2, pow);
+				dec += (int)System.Math.Pow(2, pow);
 				pow++;
 			}
 			return dec;

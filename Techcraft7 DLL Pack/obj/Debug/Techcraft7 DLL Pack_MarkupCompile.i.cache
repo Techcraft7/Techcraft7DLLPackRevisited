@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\
 Techcraft7_DLL_Pack
 none
 false
 DEBUG;TRACE
 
-1625085828
+2-890656560
 
-10527809312
+27-239509268
 17956782100
-UI\WPF\SideBarWPF.xaml;
+UI\WPF\BlockEditor\BlockEditor.xaml;UI\WPF\BlockEditor\Block_default.xaml;
 
-True
+False
 

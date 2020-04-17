@@ -10,3 +10,15 @@ C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\Tech
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.CopyComplete
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack_tests.Form1.resources
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.GenerateResource.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\T7DLLPack tests.exe.config
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\T7DLLPack tests.exe
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\T7DLLPack tests.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\Techcraft7 DLL Pack.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\bin\Debug\Techcraft7 DLL Pack.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack_tests.Form1.resources
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.GenerateResource.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.csproj.CopyComplete
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.exe
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7DLLPack tests\obj\Debug\T7DLLPack tests.pdb
