@@ -10,12 +10,9 @@ namespace T7DLLPack_tests_2
     using static Console;
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            WriteLine("graphics tests");
-            WriteLine("done!");
-            WriteLine("math tests");
-			WriteLine("done!");
+			WriteLine("Done!");
             Read();
         }
     }

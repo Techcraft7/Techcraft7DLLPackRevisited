@@ -7,8 +7,19 @@ using System.Threading.Tasks;
 
 namespace Techcraft7_DLL_Pack.Drawing
 {
-    public class ImageUtil
+    public static class ImageUtil
     {
+		/// <summary>
+		/// Makes a color darker by dividing RGB values by <paramref name="divisor"/>
+		/// </summary>
+		/// <param name="c"></param>
+		/// <param name="divisor"></param>
+		/// <returns></returns>
+		public static Color Darken(Color c, int divisor)
+		{
+			return Color.FromArgb(c.A, c.R / divisor, c.G / divisor, c.B / divisor);
+		}
+
         /// <summary>
         /// Tints a Bitmap by Multiplying all its pixels by a color
         /// </summary>

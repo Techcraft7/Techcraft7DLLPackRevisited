@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Techcraft7_DLL_Pack.Utils
 {
-    public static class StringUtil
+    public static class StringUtils
     {
-        public static readonly string Alphabet = "abcdefghijklmnopqrstuvwxyz";
+        public const string Alphabet = "abcdefghijklmnopqrstuvwxyz";
+
         public static bool IsOnlyAlpha(string s, bool CaseSensitive = false)
         {
             foreach (char c in CaseSensitive ? s : s.ToLower())

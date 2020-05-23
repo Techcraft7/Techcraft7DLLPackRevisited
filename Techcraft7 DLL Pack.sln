@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7DLLPack tests", "T7DLLPac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7DLLPack tests 2", "T7DLLPack tests 2\T7DLLPack tests 2.csproj", "{BCC06F21-2F64-419B-8BF4-E19F393CF96A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7DLLPack tests 3", "T7DLLPack tests 3\T7DLLPack tests 3.csproj", "{D78B51B0-ACC1-4565-BAFD-8A48843FF3EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC06F21-2F64-419B-8BF4-E19F393CF96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78B51B0-ACC1-4565-BAFD-8A48843FF3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78B51B0-ACC1-4565-BAFD-8A48843FF3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78B51B0-ACC1-4565-BAFD-8A48843FF3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78B51B0-ACC1-4565-BAFD-8A48843FF3EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

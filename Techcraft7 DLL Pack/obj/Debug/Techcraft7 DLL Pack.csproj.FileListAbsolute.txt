@@ -7,18 +7,10 @@ C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csproj.GenerateResource.cache
 C:\Users\Brandon\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7_DLL_Pack.UI.WinForms.SideBar.resources
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csprojAssemblyReference.cache
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\UI\WPF\BlockEditor\BlockEditor.g.cs
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\UI\WPF\BlockEditor\Block_default.g.cs
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack_MarkupCompile.cache
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack_MarkupCompile.lref
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.dll
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.pdb
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.dll
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.pdb
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\UI\WPF\BlockEditor\BlockEditor.baml
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\UI\WPF\BlockEditor\Block_default.baml
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.g.resources
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7_DLL_Pack.UI.WinForms.SideBar.resources
-C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7_DLL_Pack.UI.WPF.BlockEditor.BlockEditor.resources
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csproj.GenerateResource.cache
 C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csproj.CoreCompileInputs.cache

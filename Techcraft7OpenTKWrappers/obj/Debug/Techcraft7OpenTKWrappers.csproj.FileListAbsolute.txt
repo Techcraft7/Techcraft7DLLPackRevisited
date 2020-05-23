@@ -1,0 +1,11 @@
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\Techcraft7OpenTKWrappers.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\Techcraft7OpenTKWrappers.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\OpenTK.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\OpenTK.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\OpenTK.xml
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\obj\Debug\Techcraft7OpenTKWrappers.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\obj\Debug\Techcraft7OpenTKWrappers.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\obj\Debug\Techcraft7OpenTKWrappers.csproj.CopyComplete
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\obj\Debug\Techcraft7OpenTKWrappers.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\obj\Debug\Techcraft7OpenTKWrappers.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\Techcraft7OpenTKWrappers\bin\Debug\Textures\texture.png

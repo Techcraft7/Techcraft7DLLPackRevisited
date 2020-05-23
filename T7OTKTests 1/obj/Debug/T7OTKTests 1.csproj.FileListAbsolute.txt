@@ -1,0 +1,16 @@
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\T7OTKTests 1.exe.config
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\T7OTKTests 1.exe
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\T7OTKTests 1.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\OpenTK.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\Techcraft7 DLL Pack.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\Techcraft7OpenTKWrappers.dll
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\Techcraft7 DLL Pack.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\Techcraft7OpenTKWrappers.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\OpenTK.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\OpenTK.xml
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\obj\Debug\T7OTKTests 1.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\obj\Debug\T7OTKTests 1.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\obj\Debug\T7OTKTests 1.csproj.CopyComplete
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\obj\Debug\T7OTKTests 1.exe
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\obj\Debug\T7OTKTests 1.pdb
+C:\Users\Techcraft7\Source\Repos\Techcraft7 DLL Pack\T7OTKTests 1\bin\Debug\Textures\texture.png
