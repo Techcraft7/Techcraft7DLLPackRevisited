@@ -11,18 +11,7 @@ namespace T7DLLPack_tests
 	{
 		static void Main()
 		{
-			Console.WriteLine("multitype list tests");
-			Console.SetWindowSize(Console.WindowWidth + 50, Console.WindowHeight);
-			MultiTypeList list = new MultiTypeList();
-			list.AddTypeList(typeof(string));
-			list.AddTypeList(typeof(int));
-			list.AddObject(typeof(string), new MultiTypeListObject("Hello!"));
-			list.AddObject(typeof(int), new MultiTypeListObject(12345));
-			Console.WriteLine(list[0, typeof(int)]);
-			Console.WriteLine(list[0, typeof(string)]);
-			Console.WriteLine("done!");
 			Console.Read();
-
 		}
 	}
 }

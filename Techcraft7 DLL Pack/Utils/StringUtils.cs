@@ -10,9 +10,9 @@ namespace Techcraft7_DLL_Pack.Utils
     {
         public const string Alphabet = "abcdefghijklmnopqrstuvwxyz";
 
-        public static bool IsOnlyAlpha(string s, bool CaseSensitive = false)
+        public static bool IsOnlyAlpha(string s)
         {
-            foreach (char c in CaseSensitive ? s : s.ToLower())
+            foreach (char c in s.ToLower())
             {
                 if (!Alphabet.Contains(c))
                 {
@@ -21,5 +21,8 @@ namespace Techcraft7_DLL_Pack.Utils
             }
             return true;
         }
-    }
+
+		public static string StripWhiteSpaceAtStart(string v) => new string(v.SkipWhile(c => string.IsNullOrWhiteSpace(c.ToString())).ToArray());
+		public static string StripWhiteSpaceAtEnd(string v) => new string(v.Reverse().SkipWhile(c => string.IsNullOrWhiteSpace(c.ToString())).Reverse().ToArray());
+	}
 }

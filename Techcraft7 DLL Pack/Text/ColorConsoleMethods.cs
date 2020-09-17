@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Techcraft7_DLL_Pack.Linq;
 
 namespace Techcraft7_DLL_Pack.Text
 {
@@ -33,7 +34,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					foreach (string str in strings)
 					{
-						Console.ForegroundColor = colors[Array.IndexOf<string>(((IEnumerable<string>)strings).ToArray<string>(), str)];
+						Console.ForegroundColor = colors[Array.IndexOf(((IEnumerable<string>)strings).ToArray<string>(), str)];
 						Console.Write(str);
 					}
 					Console.ForegroundColor = foregroundColor;
@@ -42,7 +43,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					Console.ForegroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", (object)strings.Length, (object)colors.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", strings.Length, colors.Length));
 					Console.Read();
 				}
 				Console.ForegroundColor = foregroundColor;
@@ -74,7 +75,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					Console.ForegroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", (object)strings.Length, (object)colors.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", strings.Length, colors.Length));
 					Console.Read();
 				}
 				Console.ForegroundColor = foregroundColor;
@@ -121,7 +122,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					Console.BackgroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", (object)strings.Length, (object)colors.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", strings.Length, colors.Length));
 					Console.Read();
 				}
 				Console.BackgroundColor = backgroundColor;
@@ -153,7 +154,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					Console.BackgroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", (object)strings.Length, (object)colors.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the color input is {1}.", strings.Length, colors.Length));
 					Console.Read();
 				}
 				Console.BackgroundColor = backgroundColor;
@@ -205,7 +206,7 @@ namespace Techcraft7_DLL_Pack.Text
 				{
 					Console.BackgroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the bg input is {1}.\nThe length of the fg input is {2}.", (object)strings.Length, (object)bgs.Length, (object)fgs.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the bg input is {1}.\nThe length of the fg input is {2}.", strings.Length, bgs.Length, fgs.Length));
 					Console.Read();
 				}
 			}
@@ -245,7 +246,7 @@ namespace Techcraft7_DLL_Pack.Text
 					Console.BackgroundColor = ConsoleColor.Black;
 					Console.ForegroundColor = ConsoleColor.White;
 					Console.WriteLine("An error has occured in ColorConsoleMethods.dll of type of:\nTechcraft7_DLL_Pack.ColorConsoleMethods.InvalidLength\nPlease make sure that the length of the input string is equal to the length of the color input array.");
-					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the bg input is {1}.\nThe length of the fg input is {2}.", (object)strings.Length, (object)bgs.Length, (object)fgs.Length));
+					Console.WriteLine(string.Format("The length of the input string is {0}.\nThe length of the bg input is {1}.\nThe length of the fg input is {2}.", strings.Length, bgs.Length, fgs.Length));
 					Console.Read();
 				}
 			}

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Techcraft7_DLL_Pack.Networking.Protocols
+namespace Techcraft7_DLL_Pack.T7NetLib
 {
-	public abstract class AbstractProtocol
+	public enum Side
 	{
+		CLIENT, SERVER
 	}
 }

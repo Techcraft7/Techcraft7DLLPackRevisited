@@ -8,6 +8,16 @@ namespace Techcraft7_DLL_Pack.Utils
 {
     public static class ListUtils
     {
-        public static string Join<T>(IEnumerable<T> list, string Separator) => string.Join(Separator, list.ToArray());
-    }
+		public static void ThrowIfAnyNull<T>(IEnumerable<T> list, string Name = null)
+		{
+			if (list.Any(v => v == null))
+			{
+				if (Name != null)
+				{
+					throw new ArgumentException($"The list \"{Name}\" had a null value!");
+				}
+				throw new ArgumentException($"List had a null value!");
+			}
+		}
+	}
 }

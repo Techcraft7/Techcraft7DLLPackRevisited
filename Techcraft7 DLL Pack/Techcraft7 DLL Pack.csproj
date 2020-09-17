@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Techcraft7_DLL_Pack</RootNamespace>
     <AssemblyName>Techcraft7 DLL Pack</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -55,39 +56,33 @@
     <Compile Include="Collections\MultiTypeListObject.cs" />
     <Compile Include="Collections\MultiTypeList.cs" />
     <Compile Include="Drawing\ImageUtil.cs" />
-    <Compile Include="Networking\AbstractServer.cs" />
-    <Compile Include="Networking\MutliClientServer.cs" />
-    <Compile Include="Networking\Protocols\Packet.cs" />
-    <Compile Include="Networking\Protocols\AbstractProtocol.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProcolDouble.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProcolFloat.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolByte.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolInt.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolLong.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolSByte.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolShort.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolString.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolUInt.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolULong.cs" />
-    <Compile Include="Networking\Protocols\Primitives\ProtocolUShort.cs" />
-    <Compile Include="Networking\Protocols\ProtocolDataType.cs" />
+    <Compile Include="Linq\T7LinqExtentions.cs" />
+    <Compile Include="T7NetLib\Client.cs" />
+    <Compile Include="T7NetLib\ClientThreadState.cs" />
+    <Compile Include="T7NetLib\DataTypes\IByteable.cs" />
+    <Compile Include="T7NetLib\DataTypes\NetDataType.cs" />
+    <Compile Include="T7NetLib\DataTypes\NetObject.cs" />
+    <Compile Include="T7NetLib\DataTypes\PacketDataType.cs" />
+    <Compile Include="T7NetLib\DataTypes\NetArray.cs" />
+    <Compile Include="T7NetLib\DataTypes\Primitives.cs" />
+    <Compile Include="T7NetLib\Packet.cs" />
+    <Compile Include="T7NetLib\Server.cs" />
+    <Compile Include="T7NetLib\Side.cs" />
+    <Compile Include="T7NetLib\Storage\ServerStorage.cs" />
+    <Compile Include="T7NetLib\Storage\SocketStorage.cs" />
+    <Compile Include="T7NetLib\TwoWayPacket.cs" />
     <Compile Include="Text\ColorConsoleMethods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UI\WinForms\SideBar.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UI\WinForms\SideBar.Designer.cs">
-      <DependentUpon>SideBar.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Utils\DictionaryUtils.cs" />
+    <Compile Include="Utils\DontUseMeException.cs" />
     <Compile Include="Utils\ListUtils.cs" />
+    <Compile Include="Utils\LoggingUtils.cs" />
+    <Compile Include="Utils\NetUtils.cs" />
+    <Compile Include="Utils\OnlyAllowBaseClassesInThisAssembly.cs" />
+    <Compile Include="Utils\OtherUtils.cs" />
     <Compile Include="Utils\StreamUtils.cs" />
-    <Compile Include="Utils\StringUtil.cs" />
+    <Compile Include="Utils\StringUtils.cs" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <EmbeddedResource Include="UI\WinForms\SideBar.resx">
-      <DependentUpon>SideBar.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
